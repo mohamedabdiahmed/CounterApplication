@@ -1,0 +1,29 @@
+.container{
+    background-color: rgb(247, 245, 245);
+    border: 1px solid rgb(247, 245, 245);
+    padding:10px;
+    margin:10px;
+    width:200px;
+    justify-content: center;
+    margin: auto;
+}
+
+#count{
+    background-color: seagreen;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+}
+
+#elementCounter{
+    background-color: black;
+    border:0;
+    border-radius: 4px;
+    color: white;
+}
+
+#count ,#elementCounter{
+    justify-content: center;
+    margin: auto;
+    transform: translateX(50px);
+}
